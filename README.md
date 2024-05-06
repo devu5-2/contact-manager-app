@@ -32,7 +32,7 @@ git clone https://github.com/devu5-2/covidcase-ND-contact-manager-app.git
 ```
 2. **Navigate to the Project Directory**: Move into the project directory using the following command:
 ```
-cd my-contact-manager-app
+cd covidcase-ND-contact-manager-app
 ```
 3. **Install Dependencies**: Install the necessary dependencies by running:
 ```
