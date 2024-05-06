@@ -1,7 +1,7 @@
 # Vercel Deployed Link:
 
 ```
-covidcase-nd-contact-manager-app.vercel.app
+https://covidcase-nd-contact-manager-app.vercel.app
 ```
 
 # Contact Management App with Charts and Maps 
