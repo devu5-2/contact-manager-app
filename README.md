@@ -9,11 +9,11 @@ https://covidcase-nd-contact-manager-app.vercel.app
 This is a contact management app built using ReactJS, TypeScript, TailwindCSS, React Router v6, and React Query from the TanstackQuery library. The app allows you to manage your contacts and also provides interactive charts and maps to visualize COVID-19 data.
 
 # Objective Page Contacts:
-1.The app should have a form for adding new contacts
-2.The app should display a list of all added contacts
-3.Each contact should have a button to view the contacts details
-4.The app should be able to edit and delete contacts
-5.Make use of Redux to store the contact data
+1. The app should have a form for adding new contacts
+2. The app should display a list of all added contacts
+3. Each contact should have a button to view the contacts details
+4. The app should be able to edit and delete contacts
+5. Make use of Redux to store the contact data
 
 # Objective Page Charts and Maps:
 Build a simple dashboard with:
