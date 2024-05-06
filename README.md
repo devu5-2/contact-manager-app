@@ -23,7 +23,7 @@ of active, recovered cases and deaths in that particular country as a popup.
 - React Query (TanstackQuery): Manages API calls and data fetching.
 - Redux: State management for contact data.
 - React Leaflet: Integrates Leaflet maps into the React app.
-- React ChartJS 2: Library for creating interactive and visually appealing charts.
+- React ChartJS: Library for creating interactive and visually appealing charts.
 
 ## Instructions
 1. **Clone the Repository**: Start by cloning the repository to your local machine using the following command:

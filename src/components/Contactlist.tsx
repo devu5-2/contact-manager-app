@@ -79,7 +79,7 @@ const handleSaveEdit= () =>{
             </label>
 
             <label htmlFor="lName">
-              Last Name:<input
+              Last Name: <input
                 id="lName"
                 type="text"
                 className="px-2 ml-2"
