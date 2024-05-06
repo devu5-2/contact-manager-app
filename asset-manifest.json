@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/covidcase-ND-contact-manager-app/static/css/main.82f26f3f.css",
+    "main.js": "/covidcase-ND-contact-manager-app/static/js/main.f8836ab0.js",
+    "index.html": "/covidcase-ND-contact-manager-app/index.html",
+    "main.82f26f3f.css.map": "/covidcase-ND-contact-manager-app/static/css/main.82f26f3f.css.map",
+    "main.f8836ab0.js.map": "/covidcase-ND-contact-manager-app/static/js/main.f8836ab0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82f26f3f.css",
+    "static/js/main.f8836ab0.js"
+  ]
+}
