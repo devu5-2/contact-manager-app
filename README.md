@@ -26,15 +26,19 @@ of active, recovered cases and deaths in that particular country as a popup.
 - React ChartJS 2: Library for creating interactive and visually appealing charts.
 
 ## Instructions
-1. **Navigate to the Project Directory**: Move into the project directory using the following command:
+1. **Clone the Repository**: Start by cloning the repository to your local machine using the following command:
+```
+git clone https://github.com/devu5-2/covidcase-ND-contact-manager-app.git
+```
+2. **Navigate to the Project Directory**: Move into the project directory using the following command:
 ```
 cd ReactTS_Contact_Visuals
 ```
-2. **Install Dependencies**: Install the necessary dependencies by running:
+3. **Install Dependencies**: Install the necessary dependencies by running:
 ```
 npm install
 ```
-3. **Start the App**: Launch the app using the following command:
+4. **Start the App**: Launch the app using the following command:
 ```
 npm start
 ```
